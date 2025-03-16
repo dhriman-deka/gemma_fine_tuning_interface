@@ -1,3 +1,14 @@
+---
+title: Gemma Fine-tuning UI
+emoji: 🤖
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.30.0
+app_file: app.py
+pinned: false
+---
+
 # Gemma Fine-tuning UI
 
 A web-based user interface for fine-tuning Google's Gemma models using Hugging Face infrastructure.
